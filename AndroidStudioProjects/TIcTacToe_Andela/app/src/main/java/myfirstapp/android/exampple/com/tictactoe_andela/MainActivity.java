@@ -141,8 +141,7 @@ playerX.setClickable(false);
                 PlayWithCOm.setClickable(false);
                 PlayWithCOm.setTextColor(getResources().getColor( R.color.colorme));
                 PlayWithCOm.setBackgroundColor(getResources().getColor( R.color.colorblack));
-                //  playerX.setVisibility(View.INVISIBLE);
-                //playerX.isSelected();
+
             }
         });
 
